@@ -206,7 +206,7 @@ Labels:       environment=microk8s
 Commented patches available to activate for AWS production:
 
 ```yaml
-Namespace:  itkannadigaru (uncomment to activate)
+Namespace:  cubemart (uncomment to activate)
 Replicas:   2 for key services (scale-out)
 Labels:     environment=eks
 
