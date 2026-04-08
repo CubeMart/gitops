@@ -9,7 +9,7 @@ kind: Kustomization
 resources:
   - ../../base
 
-# namespace: itkannadigaru          # Uncomment: target namespace on EKS
+# namespace: cubemart               # Uncomment: target namespace on EKS
 
 # Common labels applied to all resources
 labels:
